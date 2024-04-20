@@ -17,7 +17,7 @@ If you input a base resolution of 540, select the aspect ratio 4:3, and select t
 
 ## Installation
 
-To install this node, place the `aspect_ratio.py` file in the `invokeai/nodes` directory.
+To install this node, unzip the latest release into the `invokeai/nodes` directory.
 
 ## Supported Aspect Ratios
 
