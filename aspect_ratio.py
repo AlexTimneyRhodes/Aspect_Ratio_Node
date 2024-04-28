@@ -39,7 +39,7 @@ class AspectRatioInvocation(BaseInvocation):
         aspect_ratio_map = {
             "1:1": 1.0,
             "16:9": 16/9,
-            "4:3": 4/3,
+            "3:4": 4/3,
             "3:5": 5/3,
             "3:2": 3/2,
             "5:4": 5/4
